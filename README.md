@@ -15,3 +15,6 @@ Al final el código calcularía:
 - Interés total
 - Cantidad Final a pagar
 - Tabulador de interés por periodo
+
+
+Hecho por: Bernardo Lujan Peñaloza
